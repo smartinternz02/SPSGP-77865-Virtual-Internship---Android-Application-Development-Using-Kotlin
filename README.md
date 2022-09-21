@@ -17,7 +17,6 @@ Fresh Basket - Grocery app
 
 ### **Screenshots -**
 
-
 ![freshbasket2](https://user-images.githubusercontent.com/85667548/191577726-bb379388-4815-4804-b771-03f9bd985aa7.jpeg)
 
 ![freshbasket1](https://user-images.githubusercontent.com/85667548/191577512-7730462f-b67e-4d77-9cc8-50c2302c4bc4.jpeg)
